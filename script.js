@@ -38,5 +38,7 @@ tl.to(".main h5", {
   duration: 0.5,
   delay: 0.5,
   stagger: 0.2,
-  opacity: 1
+  opacity: 1,
+  repeat: -1,
+  yoyo: true,
 });
